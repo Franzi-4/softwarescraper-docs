@@ -114,15 +114,5 @@ Requirements
 	•	Python 3.9 or newer
 	•	requests, beautifulsoup4, lxml, pandas
 
-Install:
 
-pip install requests beautifulsoup4 pandas lxml
-
-Run
-
-python enhanced_leads_scraper.py
-
-License
-
-Add your preferred license. MIT is a common choice.
 
